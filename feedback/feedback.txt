@@ -1,0 +1,16 @@
+
+- 12 MAY
+
+- Falta resultados en el abstarct 
+- cuidado con el parafraseo o copy and paste
+- teoría concreta + refe 
+- MTF-CNN-LSTM ?? arreglar -no abreviations 
+- No spanglish 
+- Retención - minúscula
+- revisar estrcutura teoria 
+- añadir aplicaciones a LSTM 
+- punto 4 acomodar el título, revisar si es parte del estado del arte 
+- conclusiones no existen 
+
+- BUSCAR data covid o epidemiológica 
+
