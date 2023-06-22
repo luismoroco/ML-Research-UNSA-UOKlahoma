@@ -2,9 +2,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/venv
+
 *.so
 
 *.csv
 *.xlsx
 *.png
 *.pdf
+*.jpeg
+*.pdf 
+
+*.xlsx
